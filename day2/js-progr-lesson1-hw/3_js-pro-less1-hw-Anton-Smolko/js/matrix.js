@@ -3,18 +3,19 @@ class Matrix{
     /* 
      * на дз - M x N
      * */
-    constructor(elem, cols, rows){
+    constructor(elem, width, height){
         this.elem = elem;
-        this.cols = cols;
-        this.rows = rows;
         this.cells = [];
+        this.width = width || 20;
+        this.height = height || 20;
     }
-
-    //Создать поле
+    
     create(){
-        for(let i = 0; i < this.cols*this.rows; i++){
+        let length = this.width * this.height
+        for(let i = 0; i < length; i++){
             let div = document.createElement('div');
             this.elem.appendChild(div);
+            this.elem.style.width = this.width * 20 + 'px';
             this.cells[i] = '';
         }
     }
@@ -30,8 +31,7 @@ class Matrix{
         this.elem.children[num].className = val;
     }
     
-    //Определяем номер ячейки
     _calcNum(x, y){
-        return this.cols*(y-1)+x;
+        return this.width * (y - 1) + x;
     }
 }

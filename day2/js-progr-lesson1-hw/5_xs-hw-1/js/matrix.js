@@ -1,18 +1,13 @@
 class Matrix{
-    
-    /* 
-     * на дз - M x N
-     * */
-    constructor(elem, cols, rows){
+
+    constructor(elem, N){
         this.elem = elem;
-        this.cols = cols;
-        this.rows = rows;
+        this.size = N;
         this.cells = [];
     }
-
-    //Создать поле
+    
     create(){
-        for(let i = 0; i < this.cols*this.rows; i++){
+        for(let i = 0; i < Math.pow(this.size,2); i++){
             let div = document.createElement('div');
             this.elem.appendChild(div);
             this.cells[i] = '';
@@ -26,12 +21,14 @@ class Matrix{
     
     setCell(x, y, val){
         let num = this._calcNum(x, y);
+        console.log(`${x} ${y} ${num}`);
         this.cells[num] = val;
         this.elem.children[num].className = val;
     }
     
-    //Определяем номер ячейки
+    /* пересчитать № строки и № столбца в i */ 
     _calcNum(x, y){
-        return this.cols*(y-1)+x;
+        //console.log(y*this.size +x);
+        return (y-1)*this.size +x-1;
     }
 }
