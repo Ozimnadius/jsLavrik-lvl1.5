@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0da49613-67b1-478a-968f-1b3211fd63ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day2/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/js/elem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/js/fruit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/js/matrix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/js/snake.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/js/wall.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/prepros.config" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/day1/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/js/matrix.js" beforeDir="false" afterPath="$PROJECT_DIR$/day1/js/matrix.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +52,7 @@
       <updated>1607949501348</updated>
       <workItem from="1607949502525" duration="1784000" />
       <workItem from="1608185446902" duration="17105000" />
-      <workItem from="1608271004063" duration="598000" />
+      <workItem from="1608271004063" duration="1805000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1608194133425</created>
@@ -79,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608198966650</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="day 2">
+      <created>1608272143196</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608272143196</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +87,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first commit" />
     <MESSAGE value="day 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 1" />
+    <MESSAGE value="day 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 2" />
   </component>
 </project>
