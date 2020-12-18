@@ -32,6 +32,6 @@ class Matrix{
     
     //Определяем номер ячейки
     _calcNum(x, y){
-        return this.cols*(y-1)+x;
+        return this.cols*(y-1)+(x-1);
     }
 }

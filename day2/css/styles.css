@@ -1,16 +1,16 @@
-html, body {
+html, body{
     margin: 0;
 }
 
-.fields {
+.fields{
     border-left: 1px solid #000;
     border-top: 1px solid #000;
-    /*width: 400px;*/
     margin: 20px;
     overflow: hidden;
+    display: inline-block;
 }
 
-.fields > div {
+.fields > div{
     width: 20px;
     height: 20px;
     box-sizing: border-box;
@@ -19,14 +19,18 @@ html, body {
     float: left;
 }
 
-.fields > div.row-start {
+.fields > div.row-start{
     clear: both;
 }
 
-.fruit {
+.fields > div[data-game="fruit"]{
     background: #f00;
 }
 
-.snake {
+.fields > div[data-game="snake"]{
     background: #ff0;
+}
+
+.fields > div[data-game="wall"]{
+    background: #00f;
 }
