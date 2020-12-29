@@ -2,7 +2,186 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0da49613-67b1-478a-968f-1b3211fd63ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/day3/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/1_elena hw2 game/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/1_elena hw2 game/img/apple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/1_elena hw2 game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/1_elena hw2 game/js/elem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/1_elena hw2 game/js/fruit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/1_elena hw2 game/js/matrix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/1_elena hw2 game/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/1_elena hw2 game/js/snake.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/1_elena hw2 game/js/wall.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/2_js-pro-less2-hw-Anton-Smolko/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/2_js-pro-less2-hw-Anton-Smolko/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/2_js-pro-less2-hw-Anton-Smolko/js/elem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/2_js-pro-less2-hw-Anton-Smolko/js/fruit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/2_js-pro-less2-hw-Anton-Smolko/js/matrix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/2_js-pro-less2-hw-Anton-Smolko/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/2_js-pro-less2-hw-Anton-Smolko/js/snake.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/2_js-pro-less2-hw-Anton-Smolko/js/wall.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/3_xs-hw-js-prog-2/css/img/f1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/3_xs-hw-js-prog-2/css/img/f2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/3_xs-hw-js-prog-2/css/img/f3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/3_xs-hw-js-prog-2/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/3_xs-hw-js-prog-2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/3_xs-hw-js-prog-2/js/elem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/3_xs-hw-js-prog-2/js/fruit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/3_xs-hw-js-prog-2/js/matrix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/3_xs-hw-js-prog-2/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/3_xs-hw-js-prog-2/js/snake.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/3_xs-hw-js-prog-2/js/wall.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/3_xs-hw-js-prog-2/questions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/4_JS2 dz2_Nikita N/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/4_JS2 dz2_Nikita N/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/4_JS2 dz2_Nikita N/js/elem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/4_JS2 dz2_Nikita N/js/fruit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/4_JS2 dz2_Nikita N/js/matrix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/4_JS2 dz2_Nikita N/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/4_JS2 dz2_Nikita N/js/snake.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/4_JS2 dz2_Nikita N/js/wall.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/5_Пархоменко Александр/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/5_Пархоменко Александр/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/5_Пархоменко Александр/js/elem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/5_Пархоменко Александр/js/fruit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/5_Пархоменко Александр/js/matrix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/5_Пархоменко Александр/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/5_Пархоменко Александр/js/snake.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/5_Пархоменко Александр/js/wall.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/6_hw2_Maxim/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/6_hw2_Maxim/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/6_hw2_Maxim/js/elem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/6_hw2_Maxim/js/fruit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/6_hw2_Maxim/js/matrix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/6_hw2_Maxim/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/6_hw2_Maxim/js/snake.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progr-lesson2-hw/6_hw2_Maxim/js/wall.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progrp-lesson3-src/1_hw_snake/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progrp-lesson3-src/1_hw_snake/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progrp-lesson3-src/1_hw_snake/js/elem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progrp-lesson3-src/1_hw_snake/js/fruit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progrp-lesson3-src/1_hw_snake/js/helpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progrp-lesson3-src/1_hw_snake/js/matrix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progrp-lesson3-src/1_hw_snake/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progrp-lesson3-src/1_hw_snake/js/snake.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progrp-lesson3-src/1_hw_snake/js/wall.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progrp-lesson3-src/2_ajax_html/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progrp-lesson3-src/2_ajax_html/apps.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progrp-lesson3-src/2_ajax_html/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progrp-lesson3-src/2_ajax_html/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progrp-lesson3-src/2_ajax_html/js/jquery-3.2.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progrp-lesson3-src/2_ajax_html/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progrp-lesson3-src/3_ajax_json/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progrp-lesson3-src/3_ajax_json/apps.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progrp-lesson3-src/3_ajax_json/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progrp-lesson3-src/3_ajax_json/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progrp-lesson3-src/3_ajax_json/js/jquery-3.2.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-progrp-lesson3-src/3_ajax_json/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js/elem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js/fruit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js/helpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js/matrix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js/snake.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js/wall.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/prepros.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/1_ДЗ урок3 Куликов Александр/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/1_ДЗ урок3 Куликов Александр/apps.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/1_ДЗ урок3 Куликов Александр/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/1_ДЗ урок3 Куликов Александр/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/1_ДЗ урок3 Куликов Александр/js/jquery-3.2.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/1_ДЗ урок3 Куликов Александр/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/2_xs-hw-3-prog-js/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/2_xs-hw-3-prog-js/apps.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/2_xs-hw-3-prog-js/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/2_xs-hw-3-prog-js/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/2_xs-hw-3-prog-js/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/2_xs-hw-3-prog-js/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/2_xs-hw-3-prog-js/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/2_xs-hw-3-prog-js/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/2_xs-hw-3-prog-js/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/2_xs-hw-3-prog-js/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/2_xs-hw-3-prog-js/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/2_xs-hw-3-prog-js/js/jquery-3.2.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/2_xs-hw-3-prog-js/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/3_JS2_dz3 Nikita_N/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/3_JS2_dz3 Nikita_N/apps.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/3_JS2_dz3 Nikita_N/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/3_JS2_dz3 Nikita_N/img/smile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/3_JS2_dz3 Nikita_N/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/3_JS2_dz3 Nikita_N/js/jquery-3.2.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/3_JS2_dz3 Nikita_N/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/4_hw3_Maxim/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/4_hw3_Maxim/apps.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/4_hw3_Maxim/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/4_hw3_Maxim/fonts/font-awesome/HELP-US-OUT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/4_hw3_Maxim/fonts/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/4_hw3_Maxim/fonts/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/4_hw3_Maxim/fonts/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/4_hw3_Maxim/fonts/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/4_hw3_Maxim/fonts/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/4_hw3_Maxim/fonts/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/4_hw3_Maxim/fonts/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/4_hw3_Maxim/fonts/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/4_hw3_Maxim/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/4_hw3_Maxim/js/jquery-3.2.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/4_hw3_Maxim/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/5_elena dz3/3_ajax_json/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/5_elena dz3/3_ajax_json/apps.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/5_elena dz3/3_ajax_json/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/5_elena dz3/3_ajax_json/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/5_elena dz3/3_ajax_json/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/5_elena dz3/3_ajax_json/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/5_elena dz3/3_ajax_json/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/5_elena dz3/3_ajax_json/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/5_elena dz3/3_ajax_json/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/5_elena dz3/3_ajax_json/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/5_elena dz3/3_ajax_json/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/5_elena dz3/3_ajax_json/js/jquery-3.2.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/5_elena dz3/3_ajax_json/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/5_elena dz3/game/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/5_elena dz3/game/apps.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/5_elena dz3/game/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/5_elena dz3/game/img/apple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/5_elena dz3/game/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/5_elena dz3/game/js/elem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/5_elena dz3/game/js/fruit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/5_elena dz3/game/js/jquery-3.2.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/5_elena dz3/game/js/matrix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/5_elena dz3/game/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/5_elena dz3/game/js/snake.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/5_elena dz3/game/js/wall.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/6_js-pro-less3-hw-Anton-Smolko/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/6_js-pro-less3-hw-Anton-Smolko/apps.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/6_js-pro-less3-hw-Anton-Smolko/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/6_js-pro-less3-hw-Anton-Smolko/img/load.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/6_js-pro-less3-hw-Anton-Smolko/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/6_js-pro-less3-hw-Anton-Smolko/js/jquery-3.2.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-3-hw/6_js-pro-less3-hw-Anton-Smolko/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-4-src/1/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-4-src/1/apps.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-4-src/1/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-4-src/1/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-4-src/1/js/jquery-3.2.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-4-src/1/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-4-src/2/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-4-src/2/apps.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-4-src/2/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-4-src/2/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-4-src/2/js/jquery-3.2.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-4-src/2/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-4-src/3/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-4-src/3/data.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-4-src/3/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-4-src/3/js/jquery-3.2.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-4-src/3/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-4-src/4/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-4-src/4/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-4-src/4/js/jquery-3.2.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-progr-4-src/4/js/scripts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/day2/js/scripts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,13 +210,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day4" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\js-lavrik-lv1.5\day4" />
+      <recent name="C:\OpenServer\domains\js-lavrik-lv1.5\day3" />
       <recent name="C:\OpenServer\domains\js-lavrik-lv1.5\day2" />
       <recent name="C:\OpenServer\domains\js-lavrik-lv1.5\day1" />
     </key>
@@ -52,7 +233,11 @@
       <updated>1607949501348</updated>
       <workItem from="1607949502525" duration="1784000" />
       <workItem from="1608185446902" duration="17105000" />
-      <workItem from="1608271004063" duration="1805000" />
+      <workItem from="1608271004063" duration="2584000" />
+      <workItem from="1609134949752" duration="7883000" />
+      <workItem from="1609163253108" duration="374000" />
+      <workItem from="1609221329024" duration="604000" />
+      <workItem from="1609223850859" duration="1199000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1608194133425</created>
@@ -75,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608272143196</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="day 2">
+      <created>1608288776675</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608288776675</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

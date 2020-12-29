@@ -1,0 +1,23 @@
+html, body{
+    margin: 40px;
+}
+
+.gallery img{
+    width: 400px;
+}
+
+.err{
+    outline: 1px solid red;
+}
+.error {color: red;}
+
+.focus{
+    box-shadow: 0 0 5px #ff0;
+}
+.hide {display: none;}
+.send { 
+	margin: 15px; 
+	width: 100px; 
+	height: 50px;
+	padding: 5px; 
+}

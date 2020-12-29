@@ -1,0 +1,25 @@
+html, body{
+    margin: 40px;
+}
+
+
+.err{
+    outline: 1px solid red;
+}
+
+.focus{
+    box-shadow: 0 0 5px #ff0;
+}
+
+.process {
+	color: #fdc290;
+	margin: 10px 0;
+}
+
+.hide {
+	display: none;
+}
+
+.show {
+	display: inline-block;
+}

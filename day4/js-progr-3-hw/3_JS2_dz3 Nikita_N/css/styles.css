@@ -1,0 +1,41 @@
+html, body{
+    margin: 40px;
+}
+
+.gallery img{
+    width: 400px;
+}
+
+.err{
+    outline: 1px solid red;
+}
+
+.focus{
+    box-shadow: 0 0 5px #ff0;
+}
+
+.result{
+    color:mediumseagreen;
+}
+
+.error-name, .error-phone,.error-email{
+    margin-left:5px;
+    color:red;
+}
+
+input[type='button']{
+    margin-top:20px;
+}
+
+.loading img{
+    animation: spin 2s linear infinite;
+
+}
+
+@keyframes spin {
+    100%{transform: rotate(360deg)}
+}
+
+.hide{
+    display:none;
+}

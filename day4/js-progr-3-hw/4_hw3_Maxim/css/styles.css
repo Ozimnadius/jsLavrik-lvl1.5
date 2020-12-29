@@ -1,0 +1,32 @@
+html, body{
+    margin: 40px;
+}
+
+.gallery img{
+    width: 400px;
+}
+
+.err{
+    outline: 1px solid red;
+}
+
+.focus{
+    box-shadow: 0 0 5px #ff0;
+}
+input[type="button"] {
+    margin-top: 16px;
+    margin-right: 8px;
+}
+.loading {
+    visibility: hidden;
+    vertical-align: middle;
+}
+.loading i {
+    color: #3f51b5;
+}
+.loading.is-visible {
+    visibility: visible;
+}
+.error {
+    color: red;
+}
